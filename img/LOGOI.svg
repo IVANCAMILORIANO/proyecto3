@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+ <g>
+  <title>Layer 1</title>
+  <path fill="ff0000" stroke="ff0000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m38.99999,186.00001c0,-76.2431 130.67403,-138.00001 292,-138.00001c161.32597,0 292,61.75691 292,138.00001c0,76.2431 -130.67403,138.00001 -292,138.00001c-161.32597,0 -292,-61.75691 -292,-138.00001z" id="svg_4"/>
+  <line fill="none" stroke="ff0000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="100" y1="50" x2="620" y2="137" id="svg_8"/>
+  <line fill="none" stroke="ff0000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="86" y1="314" x2="626" y2="230" id="svg_9"/>
+  <text fill="#ff0000" stroke-width="0" x="266.206317" y="157.483542" id="svg_1" font-size="24" font-family="serif" text-anchor="middle" xml:space="preserve" transform="matrix(8.092473648585264,0,0,7.450524610324607,-1825.7360761166462,-929.8153701421884) " stroke="ff0000">ICRV</text>
+  <line fill="none" stroke-width="4" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="620.513797" y1="-3.760854" x2="90.486197" y2="170.76088" id="svg_2" transform="rotate(-151.0682830810547 355.50000000000006,83.50000762939452) " stroke="#ff0000"/>
+  <line stroke="#ff0000" fill="none" stroke-width="3" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="624.801577" y1="194.909435" x2="71.198522" y2="372.090575" transform="rotate(-175.8961181640625 348.0000305175782,283.49999999999994) " id="svg_3"/>
+ </g>
+</svg>
